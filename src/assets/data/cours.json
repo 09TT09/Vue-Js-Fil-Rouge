@@ -1,0 +1,60 @@
+{
+  "nom": "cours",
+  "allcours": [
+    {
+      "id": 1,
+      "nom": "Maths",
+      "salle": "202",
+      "date": "10 janvier 2021",
+      "heure": "8h à 12h",
+      "place": "30",
+      "prix": "20 €",
+      "statut": "plein",
+      "type": "matiere scientifique"
+    },
+    {
+      "id": 2,
+      "nom": "Anglais",
+      "salle": "108",
+      "date": "3 janvier 2021",
+      "heure": "14h à 16h",
+      "place": "24",
+      "prix": "11.50 €",
+      "statut": "quelques place restantes",
+      "type": "langue"
+    },
+    {
+      "id": 3,
+      "nom": "Espagnol",
+      "salle": "113",
+      "date": "11 février 2021",
+      "heure": "17h à 18h",
+      "place": "15",
+      "prix": "7.50 €",
+      "statut": "quelques place restantes",
+      "type": "langue"
+    },
+    {
+      "id": 4,
+      "nom": "Physique/Chimie",
+      "salle": "209",
+      "date": "28 janvier 2021",
+      "heure": "14h à 18h",
+      "place": "34",
+      "prix": "18.75 €",
+      "statut": "vide",
+      "type": "matiere scientifique"
+    },
+    {
+      "id": 5,
+      "nom": "Technologie",
+      "salle": "118",
+      "date": "6 février 2021",
+      "heure": "8h à 11h",
+      "place": "26",
+      "prix": "26.20 €",
+      "statut": "plein",
+      "type": "autre"
+    }
+  ]
+}
